@@ -1,3 +1,3 @@
-FaceMovie has changed name, and is called Ivolution !
+FaceMovie has changed name, and is now called __Ivolution__ !
 
-Check it out [here](https://github.com/jlengrand/Ivolution), itś awesome ! [https://github.com/jlengrand/Ivolution](https://github.com/jlengrand/Ivolution)
+Check it out [here](https://github.com/jlengrand/Ivolution), it´s awesome ! [https://github.com/jlengrand/Ivolution](https://github.com/jlengrand/Ivolution)
